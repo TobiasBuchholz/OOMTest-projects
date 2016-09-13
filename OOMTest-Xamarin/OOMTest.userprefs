@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="OOMTest/OOMTest.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOMTest/ImageFragment.cs">
+    <Files>
+      <File FileName="OOMTest/MainActivity.cs" Line="21" Column="32" />
+      <File FileName="OOMTest/ImageViewPagerAdapter.cs" Line="20" Column="31" />
+      <File FileName="OOMTest/ImageFragment.cs" Line="26" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOMTest AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.R32D300XDZJ" />
+</Properties>
